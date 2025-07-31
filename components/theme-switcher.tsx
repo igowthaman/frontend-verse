@@ -49,7 +49,7 @@ const ThemeSwitcher = () => {
               size={ICON_SIZE}
               className={"text-muted-foreground"}
             />
-          )}
+          )} Theme
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="w-content" align="start">
